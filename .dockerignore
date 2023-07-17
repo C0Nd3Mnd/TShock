@@ -8,6 +8,8 @@
 !TShockAPI/
 !TShockLauncher/
 !TShockLauncher.Tests/
+!TShockInstaller/
+!TShockPluginManager/
 !TShock.sln
 
 # but exclude build artifacts
